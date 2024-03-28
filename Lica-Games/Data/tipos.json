@@ -1,0 +1,97 @@
+[
+    {
+        "NomeTipo": "Ação"
+    },
+
+    {
+        "NomeTipo": "Aventura"
+    },
+
+    {
+        "NomeTipo": "Boa Trama"
+    },
+
+    {
+        "NomeTipo": "Carro"
+    },
+
+    {
+        "NomeTipo": "Ação"
+    },
+
+    {
+        "NomeTipo": "Espaço"
+    },
+
+    {
+        "NomeTipo": "Esporte"
+    },
+
+    {
+        "NomeTipo": "Fantasia"
+    },
+
+    {
+        "NomeTipo": "Faroeste"
+    },
+
+    {
+        "NomeTipo": "Fazenda"
+    },
+
+    {
+        "NomeTipo": "Grátis"
+    },
+
+    {
+        "NomeTipo": "MOBA"
+    },
+
+    {
+        "NomeTipo": "Multijogador"
+    },
+
+    {
+        "NomeTipo": "Mundo Aberto"
+    },
+
+    {
+        "NomeTipo": "Narrativa"
+    },
+
+    {
+        "NomeTipo": "Online"
+    },
+
+    {
+        "NomeTipo": "Puzzle"
+    },
+
+    {
+        "NomeTipo": "Relaxante"
+    },
+
+    {
+        "NomeTipo": "Relaões Pessoais"
+    },
+    
+    {
+        "NomeTipo": "RPG"
+    },
+
+    {
+        "NomeTipo": "Soulslike"
+    },
+
+    {
+        "NomeTipo": "Survival Horror"
+    },
+
+    {
+        "NomeTipo": "Terror"
+    },
+
+    {
+        "NomeTipo": "Um Jogador"
+    }
+]

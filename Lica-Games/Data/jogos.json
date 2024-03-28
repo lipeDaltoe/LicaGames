@@ -1,0 +1,91 @@
+[
+    {
+        "Id": 1,
+        "Nome": "Red Dead Redemption 2",
+        "Genero": ["Faroeste", "Ação", "Aventura", "Mundo Aberto"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "Rockstar Games",
+        "Imagem": "\\img\\reddead2.jpg"
+    },
+
+    {
+        "Id": 2,
+        "Nome": "The Witcher 3",
+        "Genero": ["Mundo Aberto", "RPG", "Fantasia", "Ação"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "CD PROJEKT RED",
+        "Imagem": "\\img\\thewitcher3.jpg"
+    },
+
+    {
+        "Id": 3,
+        "Nome": "God Of War 4",
+        "Genero": ["Um Jogador", "Ação", "Aventura", "RPG"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "Santa Monica Studio",
+        "Imagem": "\\img\\godofwar4.jpg"
+    },
+
+    {
+        "Id": 4,
+        "Nome": "Ghost of Tsushima",
+        "Genero": ["Um Jogador", "Ação", "Narrativa", "RPG"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "Suck Punch Productions",
+        "Imagem": "\\img\\ghostoftsushima.jpg"
+    },
+
+    {
+        "Id": 5,
+        "Nome": "Rocket League",
+        "Genero": ["Online", "Carro", "Esporte", "Grátis"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "Psyonix",
+        "Imagem": "\\img\\rocketleague.jpg"
+    },
+
+    {
+        "Id": 6,
+        "Nome": "Dark Souls",
+        "Genero": ["Um Jogador", "Soulslike", "RPG", "Multijogador"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "From Software",
+        "Imagem": "\\img\\darksouls.jpg"
+    },
+
+    {
+        "Id": 7,
+        "Nome": "Dota 2",
+        "Genero": ["Online", "MOBA", "Multijogador", "RPG"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "Valve",
+        "Imagem": "\\img\\dota2.jpg"
+    },
+
+    {
+        "Id": 8,
+        "Nome": "Visage",
+        "Genero": ["Terror", "Um Jogador", "Survival Horror", "Puzzle"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "Sad Square",
+        "Imagem": "\\img\\visage.jpg"
+    },
+
+    {
+        "Id": 9,
+        "Nome": "Stardew Valley",
+        "Genero": ["Fazenda", "Multijogador", "Relaxante", "Relações Pessoais"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "ConcernedApe",
+        "Imagem": "\\img\\stardewvalley.jpg"
+    },
+
+    {
+        "Id": 10,
+        "Nome": "Alien Isolation",
+        "Genero": ["Survival Horror", "Espaço", "Um Jogador", "Boa Trama"],
+        "Descricao": "exemplo de descrição",
+        "Desenvolvedora": "SEGA",
+        "Imagem": "\\img\\alienisolation.jpg"
+    }
+]
