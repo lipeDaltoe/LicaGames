@@ -1,97 +1,97 @@
 [
     {
-        "NomeTipo": "Ação"
+        "Nome": "Ação"
     },
 
     {
-        "NomeTipo": "Aventura"
+        "Nome": "Aventura"
     },
 
     {
-        "NomeTipo": "Boa Trama"
+        "Nome": "Boa Trama"
     },
 
     {
-        "NomeTipo": "Carro"
+        "Nome": "Carro"
     },
 
     {
-        "NomeTipo": "Ação"
+        "Nome": "Ação"
     },
 
     {
-        "NomeTipo": "Espaço"
+        "Nome": "Espaço"
     },
 
     {
-        "NomeTipo": "Esporte"
+        "Nome": "Esporte"
     },
 
     {
-        "NomeTipo": "Fantasia"
+        "Nome": "Fantasia"
     },
 
     {
-        "NomeTipo": "Faroeste"
+        "Nome": "Faroeste"
     },
 
     {
-        "NomeTipo": "Fazenda"
+        "Nome": "Fazenda"
     },
 
     {
-        "NomeTipo": "Grátis"
+        "Nome": "Grátis"
     },
 
     {
-        "NomeTipo": "MOBA"
+        "Nome": "MOBA"
     },
 
     {
-        "NomeTipo": "Multijogador"
+        "Nome": "Multijogador"
     },
 
     {
-        "NomeTipo": "Mundo Aberto"
+        "Nome": "Mundo Aberto"
     },
 
     {
-        "NomeTipo": "Narrativa"
+        "Nome": "Narrativa"
     },
 
     {
-        "NomeTipo": "Online"
+        "Nome": "Online"
     },
 
     {
-        "NomeTipo": "Puzzle"
+        "Nome": "Puzzle"
     },
 
     {
-        "NomeTipo": "Relaxante"
+        "Nome": "Relaxante"
     },
 
     {
-        "NomeTipo": "Relaões Pessoais"
+        "Nome": "Relaões Pessoais"
     },
     
     {
-        "NomeTipo": "RPG"
+        "Nome": "RPG"
     },
 
     {
-        "NomeTipo": "Soulslike"
+        "Nome": "Soulslike"
     },
 
     {
-        "NomeTipo": "Survival Horror"
+        "Nome": "Survival Horror"
     },
 
     {
-        "NomeTipo": "Terror"
+        "Nome": "Terror"
     },
 
     {
-        "NomeTipo": "Um Jogador"
+        "Nome": "Um Jogador"
     }
 ]

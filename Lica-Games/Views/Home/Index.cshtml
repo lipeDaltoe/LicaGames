@@ -9,11 +9,13 @@
                     <h2 class="section-heading text-uppercase">Portfolio</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
-                <div class="row">
+                @foreach (var jogos in Model)
+                {
+                    
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 1-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
+                            <a class="portfolio-link" data-bs-toggle="modal" href=".portfolio-modal">
                                 <div class="portfolio-hover">
                                 </div>
                                 <img class="img-fluid" src="~/assets/Img-jogos/reddead2.jpg" alt="..." />
@@ -24,132 +26,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 2-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
-                                <div class="portfolio-hover">
-                                </div>
-                                <img class="img-fluid" src="~/assets/Img-jogos/thewitcher3.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">The Witcher 3</div>
-                                <div class="portfolio-caption-subheading text-muted">tipos</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 3-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
-                                <div class="portfolio-hover">
-                                </div>
-                                <img class="img-fluid" src="~/assets/Img-jogos/godofwar4.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">God of War 4</div>
-                                <div class="portfolio-caption-subheading text-muted">tipos</div>
-                            </div>
-                        </div>
-                    </div>
-                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 4-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
-                                <div class="portfolio-hover">
-                                </div>
-                                <img class="img-fluid" src="~/assets/Img-jogos/ghostoftsushima.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Ghost of Tsushima</div>
-                                <div class="portfolio-caption-subheading text-muted">tipos</div>
-                            </div>
-                        </div>
-                    </div>
-                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 5-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
-                                <div class="portfolio-hover">
-                                </div>
-                                <img class="img-fluid" src="~/assets/Img-jogos/rocketleague.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Rocket League</div>
-                                <div class="portfolio-caption-subheading text-muted">tipos</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 6-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
-                                <div class="portfolio-hover">
-                                </div>
-                                <img class="img-fluid" src="~/assets/Img-jogos/darksouls.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Dark Souls</div>
-                                <div class="portfolio-caption-subheading text-muted">tipos</div>
-                            </div>
-                        </div>
-                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 7-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal7">
-                                <div class="portfolio-hover">
-                                </div>
-                                <img class="img-fluid" src="~/assets/Img-jogos/dota2.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Dota 2</div>
-                                <div class="portfolio-caption-subheading text-muted">tipos</div>
-                            </div>
-                        </div>
-                    </div>
-                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 8-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal8">
-                                <div class="portfolio-hover">
-                                </div>
-                                <img class="img-fluid" src="~/assets/Img-jogos/visage.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Visage</div>
-                                <div class="portfolio-caption-subheading text-muted">tipos</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 9-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal9">
-                                <div class="portfolio-hover">
-                                </div>
-                                <img class="img-fluid" src="~/assets/Img-jogos/stardewvalley.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Stardew Valley</div>
-                                <div class="portfolio-caption-subheading text-muted">tipos</div>
-                            </div>
-                        </div>
-                    </div>
-                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 10-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal10">
-                                <div class="portfolio-hover">
-                                </div>
-                                <img class="img-fluid" src="~/assets/Img-jogos/alienisolation.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Alien Isolation</div>
-                                <div class="portfolio-caption-subheading text-muted">tipos</div>
-                            </div>
-                        </div>
-                    </div>
-                    </div>
+                    
+                }
+
                 </div>
             </div>
         </section>
