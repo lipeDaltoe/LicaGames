@@ -5,7 +5,7 @@
         "Genero": ["Faroeste", "Ação", "Aventura", "Mundo Aberto"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "Rockstar Games",
-        "Imagem": "\\img\\reddead2.jpg"
+        "Imagem": "\\Img-jogos\\reddead2.jpg"
     },
 
     {
@@ -14,7 +14,7 @@
         "Genero": ["Mundo Aberto", "RPG", "Fantasia", "Ação"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "CD PROJEKT RED",
-        "Imagem": "\\img\\thewitcher3.jpg"
+        "Imagem": "\\Img-jogos\\thewitcher3.jpg"
     },
 
     {
@@ -23,7 +23,7 @@
         "Genero": ["Um Jogador", "Ação", "Aventura", "RPG"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "Santa Monica Studio",
-        "Imagem": "\\img\\godofwar4.jpg"
+        "Imagem": "\\Img-jogos\\godofwar4.jpg"
     },
 
     {
@@ -32,7 +32,7 @@
         "Genero": ["Um Jogador", "Ação", "Narrativa", "RPG"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "Suck Punch Productions",
-        "Imagem": "\\img\\ghostoftsushima.jpg"
+        "Imagem": "\\Img-jogos\\ghostoftsushima.jpg"
     },
 
     {
@@ -41,7 +41,7 @@
         "Genero": ["Online", "Carro", "Esporte", "Grátis"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "Psyonix",
-        "Imagem": "\\img\\rocketleague.jpg"
+        "Imagem": "\\Img-jogos\\rocketleague.jpg"
     },
 
     {
@@ -50,7 +50,7 @@
         "Genero": ["Um Jogador", "Soulslike", "RPG", "Multijogador"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "From Software",
-        "Imagem": "\\img\\darksouls.jpg"
+        "Imagem": "\\Img-jogos\\darksouls.jpg"
     },
 
     {
@@ -59,7 +59,7 @@
         "Genero": ["Online", "MOBA", "Multijogador", "RPG"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "Valve",
-        "Imagem": "\\img\\dota2.jpg"
+        "Imagem": "\\Img-jogos\\dota2.jpg"
     },
 
     {
@@ -68,7 +68,7 @@
         "Genero": ["Terror", "Um Jogador", "Survival Horror", "Puzzle"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "Sad Square",
-        "Imagem": "\\img\\visage.jpg"
+        "Imagem": "\\Img-jogos\\visage.jpg"
     },
 
     {
@@ -77,7 +77,7 @@
         "Genero": ["Fazenda", "Multijogador", "Relaxante", "Relações Pessoais"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "ConcernedApe",
-        "Imagem": "\\img\\stardewvalley.jpg"
+        "Imagem": "\\Img-jogos\\stardewvalley.jpg"
     },
 
     {
@@ -86,6 +86,6 @@
         "Genero": ["Survival Horror", "Espaço", "Um Jogador", "Boa Trama"],
         "Descricao": "exemplo de descrição",
         "Desenvolvedora": "SEGA",
-        "Imagem": "\\img\\alienisolation.jpg"
+        "Imagem": "\\Img-jogos\\alienisolation.jpg"
     }
 ]

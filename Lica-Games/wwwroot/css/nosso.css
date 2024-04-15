@@ -1,0 +1,19 @@
+.container
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.masthead
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.mostrarmais
+{
+    width: 20%;
+    height: 20%;
+    align-self: center;
+}
