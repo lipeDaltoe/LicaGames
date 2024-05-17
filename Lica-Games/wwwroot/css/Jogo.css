@@ -1,0 +1,53 @@
+html, body
+{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    background-color: black;
+    padding: 30px;
+}
+
+.modal-body
+{
+    width: 80%;
+    height: auto;
+    border-radius: 30px;
+    padding-top: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #27242a;
+    color: #D3D3D3;
+}
+
+.img-fluid
+{
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.text
+{
+    width: 80%;
+    height: auto;
+    padding-top: 20px;
+    font-size: large;
+    text-indent: 50px;
+    text-align: justify;
+}
+

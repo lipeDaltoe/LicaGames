@@ -3,7 +3,7 @@
         "Id": 1,
         "Nome": "Red Dead Redemption 2",
         "Genero": ["Faroeste", "Ação", "Aventura", "Mundo Aberto"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "Red Dead Redemption é um jogo eletrônico de ação-aventura desenvolvido pela Rockstar San Diego e publicado pela Rockstar Games. Lançado em maio de 2010 para PlayStation 3 e Xbox 360, é um sucessor espiritual de Red Dead Revolver lançado em 2004. O jogo se passa em 1911 durante o declínio do Velho Oeste e segue a história de John Marston, um antigo fora-da-lei cuja esposa e filho são tomados como reféns pelo governo para forçá-lo a trabalhar como seu caçador contratado. Sem escolhas, Marston parte em uma jornada para levar três membros de sua antiga gangue até a justiça. A jogabilidade é apresentada através de uma perspectiva em terceira pessoa dentro de um mundo aberto, permitindo que o jogador interaja com os diferentes elementos da maneira como desejar. O mundo em si é uma versão ficcional da região oeste dos Estados Unidos e do noroeste do México, que o jogador pode atravessar principalmente a pé ou montado em cavalos. Red Dead Redemption também possui um sistema de moralidade, em que as ações do jogador afetam seus níveis de honra e fama e como outros personagens respondem ao protagonista. Um modo multijogador online está incluso no jogo, permitindo que até dezesseis jogadores entrem em partidas cooperativas ou competitivas em recriações dos ambientes do modo um jogador.",
         "Desenvolvedora": "Rockstar Games",
         "Imagem": "\\Img-jogos\\reddead2.jpg"
     },
@@ -12,7 +12,7 @@
         "Id": 2,
         "Nome": "The Witcher 3",
         "Genero": ["Mundo Aberto", "RPG", "Fantasia", "Ação"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "The Witcher 3: Wild Hunt é um jogo eletrônico de ação-aventura desenvolvido pela CD Projekt RED. Lançado em 2015, é o terceiro jogo da série The Witcher, que é baseada na série de livros de fantasia do autor polonês Andrzej Sapkowski. Os jogadores controlam o protagonista Geralt de Rivia, um caçador de monstros conhecido como bruxo, que está procurando sua filha adotiva desaparecida. Sua jornada o leva através de um mundo devastado pela guerra, onde ele deve enfrentar forças perigosas e fazer escolhas difíceis. The Witcher 3 é conhecido por sua narrativa complexa e madura, que é influenciada pelas escolhas do jogador, e por seu sistema de combate detalhado. O jogo também apresenta um sistema de alquimia, que permite aos jogadores criar poções, bombas e outros itens úteis. Além da história principal, há uma série de missões secundárias e contratos de bruxo que os jogadores podem escolher para completar. Essas missões adicionais podem ter múltiplos resultados, dependendo das ações do jogador. The Witcher 3: Wild Hunt foi aclamado pela crítica por sua narrativa, mundo, personagens e jogabilidade, e é frequentemente considerado um dos melhores jogos de todos os tempos.",
         "Desenvolvedora": "CD PROJEKT RED",
         "Imagem": "\\Img-jogos\\thewitcher3.jpg"
     },
@@ -21,7 +21,7 @@
         "Id": 3,
         "Nome": "God Of War 4",
         "Genero": ["Um Jogador", "Ação", "Aventura", "RPG"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "God of War 4, também conhecido como God of War 018, é um jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment (SIE). Foi lançado em 20 de abril de 2018 para PlayStation 4 e em 14 de janeiro de 2022 para Microsoft Windows. É o oitavo título da série God of War e também o oitavo em ordem cronológica. O jogo segue a história de Kratos, um ex-guerreiro espartano que se tornou o “Fantasma de Esparta” após ser enganado por Ares, o Deus da Guerra grego, para matar sua própria família. Agora, Kratos vive como um homem fora da sombra dos deuses e deve se adaptar a terras desconhecidas, ameaças inesperadas e a uma segunda chance de ser pai Nesta edição, Kratos se muda para a região da Escandinávia e tem uma família. Ele e seu filho Atreus embarcam em uma jornada mítica antes que o Ragnarök aconteça. Eles enfrentarão deuses nórdicos, feras e outros inimigos aterradores enquanto se preparam para o maior confronto de suas vidas. Kratos será desafiado como nunca e usará suas poderosas armas de guerra, incluindo o Machado Leviatã e as Lâminas do Caos, para proteger sua família. Com a variedade de novas habilidades para ele e Atreus, o combate nesta odisseia épica e implacável é fluido, flexível e impactante.",
         "Desenvolvedora": "Santa Monica Studio",
         "Imagem": "\\Img-jogos\\godofwar4.jpg"
     },
@@ -30,7 +30,7 @@
         "Id": 4,
         "Nome": "Ghost of Tsushima",
         "Genero": ["Um Jogador", "Ação", "Narrativa", "RPG"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "Ghost of Tsushima é um jogo eletrônico de ação e aventura em mundo aberto que se passa no Japão. Foi desenvolvido pela Sucker Punch Productions e lançado pela Sony Interactive Entertainment para PlayStation 4 em 2020 e para PC em 16 de maio de 2024. O jogo se passa no final do século XIII, durante a invasão do Império Mongol. Você joga como Jin Sakai, um dos últimos samurais sobreviventes na Ilha de Tsushima. Jin está decidido a proteger seu povo e recuperar sua terra natal, custe o que custar. Ao longo do jogo, Jin deve romper com as tradições que o tornaram um guerreiro para forjar um novo caminho, o do Fantasma, e declarar uma guerra incomum pela liberdade de Tsushima. O jogo é conhecido por sua jogabilidade imersiva, que permite aos jogadores explorar a bela paisagem da ilha, enfrentar inimigos em combate dinâmico e ágil, e se envolver em uma variedade de missões e atividades. Ghost of Tsushima é mais do que apenas um jogo de ação e aventura; é uma experiência cinematográfica que captura a essência da era dos samurais e a beleza do Japão feudal.",
         "Desenvolvedora": "Suck Punch Productions",
         "Imagem": "\\Img-jogos\\ghostoftsushima.jpg"
     },
@@ -39,7 +39,7 @@
         "Id": 5,
         "Nome": "Rocket League",
         "Genero": ["Online", "Carro", "Esporte", "Grátis"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "Rocket League é um jogo eletrônico de futebol veicular multiplayer online desenvolvido e publicado pela Psyonix. Foi lançado pela primeira vez para Microsoft Windows e PlayStation 4 em julho de 2015, com as portes para o Xbox One, MacOS, Linux e Nintendo Switch sendo lançados posteriormente. O jogo é descrito como futebol, mas com carros movidos a foguete. Em Rocket League, os jogadores são designados para cada uma das duas equipes e usam veículos movidos a foguete para acertar uma bola no gol do adversário e marcar pontos ao longo de uma partida. O jogo inclui modos para um jogador e multijogadores, que podem ser jogados localmente e online. Rocket League é uma continuação de Supersonic Acrobatic Rocket-Powered Battle-Cars, publicado pela Psyonix em 2008 para o PlayStation 3. O jogo foi elogiado pela crítica, recebendo uma recepção positiva por suas melhorias em comparação com Battle-Cars, seus gráficos e jogabilidade multijogador. Além do modo de jogo tradicional, Rocket League também oferece outros modos de jogo, como Hoops (partida de basquete), Snow Day (partida de hóquei no gelo), Dropshot e Rumble. Cada modo de jogo apresenta uma nova maneira de jogar, adicionando variedade e desafio ao jogo.",
         "Desenvolvedora": "Psyonix",
         "Imagem": "\\Img-jogos\\rocketleague.jpg"
     },
@@ -48,7 +48,7 @@
         "Id": 6,
         "Nome": "Dark Souls",
         "Genero": ["Um Jogador", "Soulslike", "RPG", "Multijogador"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "Dark Souls é um jogo eletrônico de RPG de ação desenvolvido pela FromSoftware e publicado pela Namco Bandai Games. Lançado originalmente em setembro de 2011 para PlayStation 3 e Xbox 360, é um sucessor espiritual de Demon’s Souls e o segundo título da série Souls. O jogo se passa no reino fictício de Lordran, onde os jogadores assumem o papel de um personagem morto-vivo amaldiçoado que inicia uma peregrinação para descobrir o destino de sua espécie. A narrativa é ambientada na Era dos Antigos, um mundo inóspito envolto em névoa, com enormes árvores e dragões imortais. Mas então veio o Fogo, e com ele, a disparidade: calor e frio, vida e morte, luz e escuridão. Com a força dos Lordes, eles desafiaram os Dragões. As poderosas flechas de Gwyn despedaçaram suas escamas de pedra. As Bruxas teceram grandes tempestades de fogo. Nito desencadeou uma névoa de morte e doença. E Seath, o Descamado, traiu os seus, e os Dragões não foram mais. Assim começou a Era do Fogo. Mas logo as chamas se apagarão e só restará a Escuridão. Mesmo agora, só há brasas, e o homem vê não a luz, mas noites intermináveis. E entre os vivos são vistos portadores do maldito sinal escuro. Dark Souls é conhecido por sua dificuldade desafiadora e seu combate profundo e recompensador. A jogabilidade é apresentada em terceira pessoa, com foco em combate estratégico e exploração cautelosa do ambiente.",
         "Desenvolvedora": "From Software",
         "Imagem": "\\Img-jogos\\darksouls.jpg"
     },
@@ -57,7 +57,7 @@
         "Id": 7,
         "Nome": "Dota 2",
         "Genero": ["Online", "MOBA", "Multijogador", "RPG"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "Dota 2 é um jogo eletrônico de estratégia em tempo real multijogador desenvolvido e publicado pela Valve Corporation. O jogo foi lançado em 2024 como uma sequência de Dota, um mod amplamente reconhecido para Warcraft III: Reign of Chaos e Frozen Throne. Em Dota 2, duas equipes de cinco jogadores competem para destruir a base adversária. Cada jogador controla uma unidade única, conhecida como herói, com habilidades especiais. Os jogadores devem trabalhar em conjunto para derrotar os heróis adversários, conquistar território e, finalmente, destruir a base inimiga. Existem mais de 100 heróis disponíveis para jogar em Dota 2, cada um com suas próprias habilidades e poderes únicos. Os jogadores podem escolher entre uma ampla variedade de heróis para formar sua equipe, e as combinações de heróis podem criar fortalezas e fraquezas específicas. O jogo é dividido em três fases principais: a fase de seleção, a fase de laning e a fase de teamfight. Na fase de seleção, cada jogador escolhe um herói para jogar. Na fase de laning, os heróis de cada equipe se espalham pelo mapa para ganhar ouro e experiência. Na fase de teamfight, as equipes lutam entre si para ganhar vantagem e, eventualmente, destruir a base inimiga. Os itens são uma parte importante do Dota 2. Os itens podem ser comprados na loja do jogo e podem fornecer aos heróis uma variedade de benefícios, como aumento de dano, redução de dano ou aumento de velocidade. Os jogadores precisam escolher cuidadosamente os itens que compram para otimizar as habilidades de seus heróis e se preparar para as ameaças adversárias. Dota 2 é um jogo complexo e desafiador que oferece uma variedade quase infinita de estratégias e possibilidades. O jogo pode ser apreciado por jogadores de todos os níveis de habilidade, e há sempre algo novo para aprender. Se você está procurando um jogo eletrônico competitivo e gratificante, Dota 2 é uma ótima escolha.",
         "Desenvolvedora": "Valve",
         "Imagem": "\\Img-jogos\\dota2.jpg"
     },
@@ -66,7 +66,7 @@
         "Id": 8,
         "Nome": "Visage",
         "Genero": ["Terror", "Um Jogador", "Survival Horror", "Puzzle"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "Visage é um jogo eletrônico independente do gênero survival horror desenvolvido e publicado pela SadSquare Studio. O jogo é considerado um sucessor espiritual do P.T. Foi realizado por meio de campanhas nos serviços de financiamento coletivo Kickstarter e o extinto Steam Greenlight. O jogo se passa na década de 1980 dentro de uma casa antiga situada em uma cidade isolada. Ao longo dos anos, a propriedade foi ocupada por dezenas de famílias. Enquanto alguns viveram em paz, outros foram brutalmente assassinados por diversas circunstâncias. Em Visage, você vai explorar uma casa misteriosa e em constante mudança. A atmosfera niilista com progressão lenta, que combina ambientes estranhamente reconfortantes com ambientes horrivelmente realistas, e desfruta de uma experiência de jogo aterradora e única. Os jogadores terão que encontrar fragmentos da história da casa, com cada um deles revelando de maneira gradativa o que está por trás da história sombria do local, enquanto testemunham em primeira mão os “resquícios” de cada morte deixada para trás. Visage é ambientado no interior de uma casa grande onde coisas terríveis aconteceram. Os jogadores caminham pela casa na perspectiva de primeira pessoa, e são capazes de manipular objetos e portas e também precisam gerenciar recursos limitados, como fluido de isqueiro e lâmpadas sobressalentes, na medida que exploram a casa tentando descobrir a verdade. As várias portas fechadas e a busca pelas suas respectivas chaves que lhes abrem são a parte central da progressão no jogo. A casa é projetada como um mundo semi-aberto, com grandes seções livremente exploráveis para os jogadores, incluindo áreas não relevantes para o capítulo em questão. Os fantasmas manipularão alguns aspectos da casa enquanto o jogador explora podendo ser tanto eventos programados como fenômenos aleatórios por exemplo: lâmpadas acendendo, portas se fechando sozinhas, objetos tremendo e afins. Existem três maneiras de morrer no jogo: ser morto por elementos perigosos espalhados pelos cenários, ser morto pelos vários fantasmas e demônios que habitam a casa ou perdendo a sanidade. A sanidade, cujo funcionamento é semelhante as mecânicas de jogos como Amnesia: The Dark Descent, é reduzida toda vez que o jogador testemunha inimigos ou eventos paranormais e, passivamente, caso o jogador permaneça na escuridão por muito tempo. Visage é um game que desde seu primeiro segundo conta uma história bem misteriosa. O jogador acorda dentro de uma casa, sem saber nenhuma informação sobre o nome do protagonista, quem ele é e nem nada mais. Isso após uma impressionante e bem violenta introdução",
         "Desenvolvedora": "Sad Square",
         "Imagem": "\\Img-jogos\\visage.jpg"
     },
@@ -75,7 +75,7 @@
         "Id": 9,
         "Nome": "Stardew Valley",
         "Genero": ["Fazenda", "Multijogador", "Relaxante", "Relações Pessoais"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "Stardew Valley é um jogo eletrônico de RPG sem fim da vida no campo. Foi desenvolvido pela ConcernedApe e lançado em 26 de Fevereiro de 2016 para PC. Posteriormente, foram adicionadas compatibilidades com sistemas Mac OSX e Linux. No jogo, você herda a antiga fazenda de seu avô no Vale do Orvalho. Equipado com ferramentas de segunda mão e algumas moedas, você começa sua nova vida. Stardew Valley é um jogo aberto, permitindo ao jogador atingir conquistas de uma forma não linear. Existem diversos modos de conseguir dinheiro e muitas atividades para escolher, como cultivo, pesca, coleta de recursos, mineração, combater inimigos, criar itens, cozinhar, interagir e presentear aldeões, completar missões e restaurar o Centro Comunitário. O jogo permite uma grande personalização do personagem, incluindo aparência, nome, gênero, nome da fazenda, coisa favorita e preferência de animal de estimação. Além disso, o jogador pode selecionar entre 5 tipos de fazendas diferentes, cada uma oferecendo benefícios únicos e habilidades específicas. Stardew Valley é um jogo que oferece uma experiência relaxante e gratificante, permitindo aos jogadores viverem a vida no campo à sua maneira.",
         "Desenvolvedora": "ConcernedApe",
         "Imagem": "\\Img-jogos\\stardewvalley.jpg"
     },
@@ -84,7 +84,7 @@
         "Id": 10,
         "Nome": "Alien Isolation",
         "Genero": ["Survival Horror", "Espaço", "Um Jogador", "Boa Trama"],
-        "Descricao": "exemplo de descrição",
+        "Descricao": "Alien: Isolation é um jogo eletrônico de sobrevivência e terror. Foi desenvolvido pela Creative Assembly e publicado pela Sega. O jogo é ambientado quinze anos após os eventos de Alien™. Você joga como Amanda Ripley, filha de Ellen Ripley, que está motivada a resolver o mistério do desaparecimento da mãe. Em Alien: Isolation, você se encontra na estação espacial Sevastopol à procura de respostas, mas acaba revivendo o mesmo pesadelo que aconteceu com a mãe em todos os anos anteriores. O jogo é uma experiência de sobrevivência e terror, onde você deve usar suas habilidades e inteligência para sobreviver enquanto é caçado por um alienígena imprevisível e brutal. O jogo é conhecido por sua atmosfera intensa e aterrorizante, e por sua fidelidade ao material original do filme Alien. Cada encontro com o Alien é único e dinâmico, pois é guiado por uma inteligência artificial avançada que permite ao Alien reagir ao seu comportamento e tomar decisões baseadas em seus próprios instintos. Alien: Isolation oferece uma experiência de jogo verdadeiramente aterrorizante, onde cada passo pode ser o seu último.",
         "Desenvolvedora": "SEGA",
         "Imagem": "\\Img-jogos\\alienisolation.jpg"
     }
